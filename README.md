@@ -1,5 +1,18 @@
 # Human Rights Monitor MIS
 
+
+## 📸 Some Screenshots (desktop view)
+
+![frame_0_05_16f](https://github.com/user-attachments/assets/99e83a23-49a1-4b56-90ae-9ba3db69b6ea)
+![frame_0_05_16f](https://github.com/user-attachments/assets/00681513-40d9-4949-ae1d-ace6027550e0)
+![frame_1_03_0f](https://github.com/user-attachments/assets/c68ac2c5-49dd-4558-b99b-ac2d9f6d4944)
+![frame_0_05_16f](https://github.com/user-attachments/assets/b007bf9c-64ac-45c1-b8ef-f8b2f1ef62a0)
+![frame_2_33_5f](https://github.com/user-attachments/assets/6b510d86-7bbe-418c-8aae-6f3a8075ba41)
+![frame_4_09_24f](https://github.com/user-attachments/assets/3aa5a3c0-e149-4ca3-b246-5aa40b34b8b2)
+
+
+
+
 ## 👥 Team Members
 
 - Noor – Incident Reporting Module
